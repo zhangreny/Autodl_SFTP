@@ -1,0 +1,2 @@
+# Autodl_SFTP
+使用python实现sftp向autodl的实例中上传文件夹中的所有文件
